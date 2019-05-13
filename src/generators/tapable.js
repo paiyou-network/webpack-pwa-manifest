@@ -1,4 +1,4 @@
-import HtmlWebpackPlugin from '../../../html-webpack-plugin'
+import HtmlWebpackPlugin from 'html-webpack-plugin'
 import { buildResources, injectResources, generateHtmlTags, generateAppleTags, generateMaskIconLink, applyTag } from '../injector'
 
 module.exports = function (that, { hooks: { compilation: comp, emit } }) {

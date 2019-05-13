@@ -1,6 +1,6 @@
 'use strict';
 
-var _htmlWebpackPlugin = require('../../../html-webpack-plugin');
+var _htmlWebpackPlugin = require('html-webpack-plugin');
 
 var _htmlWebpackPlugin2 = _interopRequireDefault(_htmlWebpackPlugin);
 
